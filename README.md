@@ -1,4 +1,4 @@
-# Web UI tests
+# HW 5 Web UI tests
 
 Автотесты для сайта [UI Test Automation Playground](http://www.uitestingplayground.com/home).
 Стек: Python, pytest, Playwright, Allure.
